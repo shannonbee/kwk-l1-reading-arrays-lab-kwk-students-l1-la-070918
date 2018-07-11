@@ -8,10 +8,11 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-puts STUDENT_NAMES =["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
-puts STUDENT_NAMES.first
+  puts student_names.first
+
  end
- puts STUDENT_NAMES.first
+ 
+ puts student_names[0]
   # Write a solution that returns the first student in the array student_names
 
 def fourth_student_by_index
