@@ -21,10 +21,10 @@ end
   puts student_names[5]
 
 def last_student_by_index
-  puts student_names.[]
+  puts student_names.last
  
-
 end
+puts student_names[]
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
