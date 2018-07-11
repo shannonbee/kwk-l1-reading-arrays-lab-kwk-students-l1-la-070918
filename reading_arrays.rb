@@ -15,7 +15,8 @@ def first_student_by_index
  puts student_names[0]
   
 def fourth_student_by_index
-  puts student_names [5]
+  puts student_names.fourth 
+  puts student_names[5]
 end
 
 def last_student_by_index
