@@ -36,7 +36,7 @@ def last_student_by_method
  puts student_names.last
 end
 
-puts student_names[7]
+puts student_names[6]
 def first_second_and_third_students
  puts ["Adele","Beyonce","Cardi B"]
 end
