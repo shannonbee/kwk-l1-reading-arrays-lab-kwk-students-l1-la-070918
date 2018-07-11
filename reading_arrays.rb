@@ -37,4 +37,4 @@ end
 def first_second_and_third_students
  puts ["Adele","Beyonce","Cardi B"]
 end
-puts first_second_and_third_students
+puts first_second_and_third_students[1,2,3]
