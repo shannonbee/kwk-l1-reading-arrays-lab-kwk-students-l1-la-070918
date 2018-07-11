@@ -8,23 +8,22 @@ student_names = [
 ]
 
 def first_student_by_index
+  puts student_names.first
+
+ end
+ 
  puts student_names[0]
-end
-
-def fourth_student_by_index
-  puts student_names[4]
-end
   
-  def first_student_by_index
-    puts student_names[7]
+def fourth_student_by_index
+  puts student_names.fourth 
+  
 end
-
-puts student_names.first
-puts student_names.fourth
-puts student_names.last
+  puts student_names[5]
 
 def last_student_by_index
-  # Write a solution that returns the first student in the array student_names
+  puts student_names.[]
+ 
+
 end
 
 def first_student_by_method
