@@ -6,10 +6,10 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ]
-
-def first_student_by_index
- puts STUDENT_NAMES =["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
- puts STUDENT_NAMES [0]
+puts STUDENT_NAMES
+# def first_student_by_index
+# puts STUDENT_NAMES =["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
+# puts STUDENT_NAMES [0]
  
   # Write a solution that returns the first student in the array student_names
 end
