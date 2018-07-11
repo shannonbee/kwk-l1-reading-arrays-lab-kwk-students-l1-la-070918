@@ -8,6 +8,8 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
+ puts room.first =["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
+ 
   # Write a solution that returns the first student in the array student_names
 end
 
